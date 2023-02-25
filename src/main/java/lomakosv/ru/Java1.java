@@ -38,10 +38,10 @@ public class Java1 {
         System.out.println("aByte + maxByte = " + nPlusMaxByte);
 
         double d = 1.0;
-        int i2 = 1;
+        int i2 = 2;
         System.out.println("d + i = " + (d + i2));
+        System.out.println("d * i = " + (d * i2));
         System.out.println("d + i = " + d + i2);
-
 
     }
 }
